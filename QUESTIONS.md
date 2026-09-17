@@ -72,8 +72,8 @@ Yes, my commit message(s) follows the convention  docs: add name to contributors
 your PR show?**
 
 > PR is https://github.com/IbrahimYasserM/Practice-Repository/pull/8
-Commits: 4
-Files changed: 2
+Commits: 7
+Files changed: 3
 
 ---
 
